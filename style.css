@@ -28,3 +28,7 @@ table.two {
 a {
   text-decoration: none;
 }
+hr {
+  border: 10px solid blueviolet;
+  border-radius: 5px;
+}
